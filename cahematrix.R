@@ -14,7 +14,7 @@
 
 
 ## This function saves the information of a matrix and its inverse for future computations
-mat3<-matrix(c(7,2,1,0,3,-1,-3,4,-2),3,3)
+## mat3<-matrix(c(7,2,1,0,3,-1,-3,4,-2),3,3)
 ## Write a short comment describing this function
      makeCacheMatrix <- function(x = matrix()) {
 
